@@ -6,7 +6,7 @@ Después de clonar el repositorio nos movemos a la carpeta DjangoAPI
 cd DjangoAPI
 ```
 
-y continuación ejecutar el siguiente comando para instalar todas las librerías:
+y a continuación ejecutar el siguiente comando para instalar todas las librerías:
 
 ```bash
 pip install -r requirements.txt
